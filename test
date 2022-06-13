@@ -1,0 +1,2 @@
+getgenv().Invite = "HkSQKjgAbM"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoUGotbannedlol/OtherThings/main/dsc"))()
